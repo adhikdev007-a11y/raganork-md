@@ -1,0 +1,11 @@
+# Bot Configuration
+BOT_NAME=HUSKY
+HANDLERS=.,!
+SUDO=919745418553
+
+# Database (Required for cloud platforms)
+DATABASE_URL=https://github.com/adhikdev007-a11y/raganork-md
+
+# Localization
+LANGUAGE=en
+TZ=Asia/Kolkata
